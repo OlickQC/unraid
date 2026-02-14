@@ -1,0 +1,5 @@
+{
+  "folder_path": "/mnt/user/data/t/linkdir",
+  "output_path": "/mnt/user/data/logs/check_hardlinks/non_hardlinked_files.txt",
+  "log_level": "INFO"
+}
